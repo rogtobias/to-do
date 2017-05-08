@@ -1,0 +1,12 @@
+#veiw-task {
+  display: none;
+}
+
+#person-list, .task-name {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#person-list:hover, .task-name:hover {
+  text-decoration: underline;
+}
